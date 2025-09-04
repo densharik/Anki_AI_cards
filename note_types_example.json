@@ -1,0 +1,99 @@
+{
+  "Basic": [
+    "Front",
+    "Back"
+  ],
+  "Basic (and reversed card)": [
+    "Front",
+    "Back"
+  ],
+  "Chumbi-Basic": [
+    "Question",
+    "Answer"
+  ],
+  "Chumbi-Cloze": [
+    "Text",
+    "Extra"
+  ],
+  "Chumbi-TypeIn": [
+    "Question",
+    "Answer",
+    "Comments"
+  ],
+  "ForkLapisForEnglsih": [
+    "Expression",
+    "Sentence",
+    "MainDefinition",
+    "MainDefinitionRU",
+    "ExpressionAudio",
+    "SentenceAudio",
+    "Picture",
+    "IPA",
+    "FreqSort",
+    "Collocations",
+    "Synonyms",
+    "Antonyms",
+    "RelatedForms",
+    "E.g.",
+    "MiscInfo",
+    "DefinitionPicture",
+    "SelectionText",
+    "Hint",
+    "IsWordAndSentenceCard",
+    "IsClickCard",
+    "IsSentenceCard"
+  ],
+  "ForkLapisForEnglsih+": [
+    "Expression",
+    "Sentence",
+    "MainDefinition",
+    "MainDefinitionRU",
+    "ExpressionAudio",
+    "SentenceAudio",
+    "Picture",
+    "IPA",
+    "FreqSort",
+    "Collocations",
+    "Synonyms",
+    "Antonyms",
+    "RelatedForms",
+    "E.g.",
+    "MiscInfo",
+    "DefinitionPicture",
+    "SelectionText",
+    "Hint",
+    "IsWordAndSentenceCard",
+    "IsClickCard",
+    "IsSentenceCard"
+  ],
+  "Lapis": [
+    "Expression",
+    "ExpressionFurigana",
+    "ExpressionReading",
+    "ExpressionAudio",
+    "SelectionText",
+    "MainDefinition",
+    "Sentence",
+    "SentenceFurigana",
+    "SentenceAudio",
+    "Picture",
+    "Glossary",
+    "Hint",
+    "IsHintCard",
+    "IsClickCard",
+    "IsSentenceCard",
+    "PitchPosition",
+    "Frequency",
+    "FreqSort",
+    "MiscInfo"
+  ],
+  "Modern Cloze [v2] FORK": [
+    "Topic",
+    "Subtopic",
+    "Question",
+    "Text",
+    "Sound",
+    "Source (optional)",
+    "Details (optional)"
+  ]
+}

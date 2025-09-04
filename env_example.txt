@@ -1,0 +1,18 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=sk-proj-your-openai-api-key-here
+OPENAI_BASE_URL=https://api.openai.com/v1
+OPENAI_TEXT_MODEL=gpt-5-mini
+OPENAI_TTS_MODEL=gpt-4o-mini-tts
+OPENAI_TTS_VOICE=echo
+
+# AnkiConnect Configuration
+ANKI_CONNECT_URL=http://127.0.0.1:8765
+
+# Cache Configuration
+CACHE_DIR=cache
+
+# Frequency Dictionary Path (optional)
+FREQ_DICT_PATH=freq_dict.json
+
+# Logging Level
+LOG_LEVEL=INFO
